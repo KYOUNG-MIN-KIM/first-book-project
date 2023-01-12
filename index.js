@@ -1,1 +1,1 @@
-let fruit = "apple";
+let fruit = "kiwi";
